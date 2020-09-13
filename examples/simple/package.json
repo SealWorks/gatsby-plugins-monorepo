@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "@this/simple-site",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.24.57",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "@sealworks/gatsby-theme-core": "*"
+  }
+}
