@@ -1,6 +1,5 @@
 .cache
 .eslintrc.js
-**/.eslintrc.js
 .prettierrc.js
 jest.config.js
 node_modules
